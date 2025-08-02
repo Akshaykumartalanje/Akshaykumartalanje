@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshaykumartalanje
-- 👀 I’m interested in learning new coding languages.
+- 👀 I’m interested in learning new skills and coding languages.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
